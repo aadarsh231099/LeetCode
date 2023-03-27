@@ -7,14 +7,14 @@ public:
             return 0;
         }
 
-        int hold1 = numeric_limits<int>::min();
-        int release1 = numeric_limits<int>::min();
+        int h1 = numeric_limits<int>::min();
+        int r1 = numeric_limits<int>::min();
 
         for (const auto& p : prices) {
-            hold1 = max(hold1, -p);
-            release1 = max(release1, hold1 + p);
+            h1 = max(h1, -p);
+            r1 = max(r1, h1 + p);
         }
 
-        return release1;
+        return r1;
     }
 };
