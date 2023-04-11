@@ -4,8 +4,8 @@ Refer solutions wrt the question name provided.
 LeetCode Profile Link:-https://leetcode.com/aadarshhanu/
 
 # Total Problems Solved 
-## Current Coding Streak : 37 days
-### (Counted from 02/03/2023 - Current date)
+### Current Coding Streak : 37 days
+(Counted from 02/03/2023 - Current date)
 
 
 |  #  |  Difficulty | Problems Solved  
