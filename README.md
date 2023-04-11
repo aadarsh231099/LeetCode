@@ -9,6 +9,6 @@ LeetCode Profile Link:-https://leetcode.com/aadarshhanu/
 
 |  #  |  Difficulty | Problems Solved  
 |-----|-------------|---------------
-| 1. | :green_square: <strong>Easy</strong> | <strong><center>82</center></strong>|
+| 1. | :green_square: <strong>Easy</strong> | <strong>82</strong>|
 | 2. | :yellow_square: <strong>Medium</strong> | <strong>53</strong>|
-| 3. | :red_square: <strong>Hard</strong>  |<strong>10</strong>|
+| 3. | :red_square: <strong>Hard</strong>  | <strong>10</strong>|
