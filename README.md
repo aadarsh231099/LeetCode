@@ -3,8 +3,11 @@ Refer solutions wrt the question name provided.
 
 LeetCode Profile Link:-https://leetcode.com/aadarshhanu/
 
-# Total Problems Solved 
+# Total Problems Solved : 145
 ### Current Coding Streak : 37 days
+
+Rank : 439,652
+
 (Counted from 02/03/2023 - Current date)
 
 
